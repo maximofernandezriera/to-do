@@ -4,9 +4,9 @@ Objetivo: Crear una aplicación de escritorio en Java utilizando Swing que permi
 
 ## Estructura del Proyecto
 
-Clase principal: ToDoApp.java
-Modelo de datos: Task.java
-Gestor de tareas: TaskManager.java
-Interfaz gráfica:
-MainFrame.java
-TaskPanel.java
+      Clase principal: ToDoApp.java
+      Modelo de datos: Task.java
+      Gestor de tareas: TaskManager.java
+      Interfaz gráfica:
+      MainFrame.java
+      TaskPanel.java
